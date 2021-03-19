@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Cormorant Upright", serif;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.banner {
+  width: 100%;
+}
+.navbar {
+  font-size: 1.8em;
+  background-color: #f5c9b2;
+}
+
+.logo {
+  max-width: 100%;
+  max-height: 200%;
+  margin-top: -20%;
+}
+
+.form-inline {
+  text-align: center;
+  width: 100%;
+}
+
+.btn {
+  background-color: #fead89 !important;
+}
+
+/*products content*/
+
+.products-content {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 3%;
+}
+.main-content {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  max-height: 100%;
+}
+
+.news {
+  height: 300px;
+}
+.footer {
+  font-size: larger;
+  font-weight: bold;
+}
+#footer-item {
+  width: 40%;
+  height: 40%;
+}
+.media-wrap {
+  float: left;
+}
+.btn-secondary {
+  background-color: rgb(163, 211, 253) !important;
+}
+td {
+  text-align: center;
+}
+.totals {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.btn-proceed-checkout {
+  width: 400px;
+  height: 50px;
+  background-color: #fead89;
+  font-size: larger;
+  color: brown;
+}
+.checkout {
+  text-align: center;
+  line-height: 1%;
+  font-size: larger;
+}
+.price {
+  text-align: center;
+  line-height: 1%;
+  font-size: x-large;
+}
+#qty {
+  width: 50%;
+  text-align: center;
+  line-height: 1%;
+  border: 1px;
+  border-radius: 2%;
+}
+.cart_delete {
+  border: 1px;
+}
+h2 {
+  text-align: center;
+  color: rgb(221, 105, 76);
+  font-weight: 700;
+}
+.page-title {
+  text-align: center;
+}

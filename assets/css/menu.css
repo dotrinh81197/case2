@@ -1,0 +1,38 @@
+#myMenu {
+  background-color: #add8e6 !important;
+  font-size: 1.2em;
+}
+li {
+  list-style: none;
+  font-size: x-large;
+}
+.nav > li > a:focus,
+.nav > li > a:hover {
+  text-decoration: none;
+  background-color: #add8e6;
+}
+.nav .open > a:hover {
+  background-color: #6495ed;
+}
+.navbar-nav > li > .dropdown-menu {
+  background-color: #add8e6;
+  width: max-content;
+  border: 0px;
+  color: #6495ed;
+}
+.nav-item {
+  margin-left: 3em;
+}
+.dropdown-menu ul li a {
+  color: #f4a460;
+}
+/*Shopping cart*/
+.shopping-cart li {
+  flex-direction: column;
+  display: block;
+}
+.shopping-cart li i {
+  flex-direction: column;
+  display: block;
+  text-align: center;
+}
